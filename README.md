@@ -1,4 +1,6 @@
 <h1 align="center">Hi, I'm Ghoudi Zakaria 👋</h1>
+<img src="https://share.google/mylntL65ePfwot0h5" />
+
 <h3 align="center">Student at GoMyCode | Full-Stack Web Developer</h3>
 
 ---
@@ -46,10 +48,10 @@ Here are some of the technologies I've been working with:
  -https://github.com/Zakariaghoudi/movie-apps
 
 - **Simple Clock:** A straightforward e-clock web application that displays the current time, built with foundational web technologies.
-  -https://github.com/Zakariaghoudi/Clock
+-https://github.com/Zakariaghoudi/Clock
 
 - **Calculator:** A basic calculator application that handles standard arithmetic operations.
-  - https://github.com/Zakariaghoudi/Calculator
+-https://github.com/ZakariaghoudiCalculator
 ---
 
 ### 🔥 GitHub Stats
