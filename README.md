@@ -4,13 +4,13 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/ghoudi-zakaria?tab=followers">
+  <a href="https://github.com/Zakariaghoudi?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ghoudi-zakaria?style=for-the-badge&logo=github&label=Follow&color=5865F2">
   </a>
   <a href="mailto:zakariaghoudi1@gmail.com">
     <img alt="Email me" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/zakariaghoudi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
@@ -43,21 +43,20 @@ Here are some of the technologies I've been working with:
 ### 🚀 My Projects
 
 - **Movie App:** A dynamic movie web application built using **React.js** and integrated with a back-end powered by **Node.js**.
-  - *You can add a link to the GitHub repo or a live demo here.*
+ -https://github.com/Zakariaghoudi/movie-apps
 
 - **Simple Clock:** A straightforward e-clock web application that displays the current time, built with foundational web technologies.
-  - *You can add a link to the GitHub repo or a live demo here.*
+  -https://github.com/Zakariaghoudi/Clock
 
 - **Calculator:** A basic calculator application that handles standard arithmetic operations.
-  - *You can add a link to the GitHub repo or a live demo here.*
-
+  - https://github.com/Zakariaghoudi/Calculator
 ---
 
 ### 🔥 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ghoudi-zakaria&show_icons=true&theme=dark" alt="Ghoudi's GitHub stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghoudi-zakaria&theme=dark" alt="Ghoudi's GitHub streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zakariaghoudi&theme=dark" alt="Ghoudi's GitHub streak">
 </p>
 
 ---
