@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ghoudi Zakaria 👋</h1>
 <img align="center" src="https://my-portfolio-xi-jet-65.vercel.app/static/media/img.6e4dcf2e330913806a93.jpg" />
 
-<h3 align="center">Student at GoMyCode | Full-Stack Web Developer</h3>
+<h3 align="center">Student at GoMyCode | Software Development With AI Skills</h3>
 
 ---
 
