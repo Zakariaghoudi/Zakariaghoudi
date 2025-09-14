@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ghoudi Zakaria 👋</h1>
-<img align="center" src="https://my-portfolio-xi-jet-65.vercel.app/static/media/img.6e4dcf2e330913806a93.jpg" />
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7vOybSoU9Yvy7s2BrQa3DRqz8gVTNKCwcIw&usqp=CAU" />
 
 <h3 align="center">Student at GoMyCode | Software Development With AI Skills</h3>
 
