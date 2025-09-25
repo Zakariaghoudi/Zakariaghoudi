@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ghoudi Zakaria 👋</h1>
-<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7vOybSoU9Yvy7s2BrQa3DRqz8gVTNKCwcIw&usqp=CAU" />
+<img align="center" borderRadius="50%"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7vOybSoU9Yvy7s2BrQa3DRqz8gVTNKCwcIw&usqp=CAU" />
 
 <h3 align="center">Student at GoMyCode | Software Development With AI Skills</h3>
 
