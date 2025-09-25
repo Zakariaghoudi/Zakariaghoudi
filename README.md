@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Ghoudi Zakaria 👋</h1>
-<div align="center">
-  <img width="300px"; height="300px" border="2px solid green"; border-radius="50px";
-  <src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7vOybSoU9Yvy7s2BrQa3DRqz8gVTNKCwcIw&usqp=CAU" />
-</div>
+  <img   align="center" ; width="300px"; height="300px" border="2px solid green"; border-radius="50px"
+  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7vOybSoU9Yvy7s2BrQa3DRqz8gVTNKCwcIw&usqp=CAU" />
+
 <h3 align="center">Student at GoMyCode | Software Development With AI Skills</h3>
 
 ---
