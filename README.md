@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ghoudi Zakaria 👋</h1>
 <div align="center">
-  <img src="https://ghoudizakaria.vercel.app/static/media/img3.46ce3c48f9d4dfd6312d.jpg" width="200" height="200" style="border-radius:50%; object-fit:cover;" />
+  <img src="https://ghoudizakaria.vercel.app/static/media/img3.46ce3c48f9d4dfd6312d.jpg" width="300" height="300" style="border-radius:50%; object-fit:cover;" />
 
 </div>
 <h3 align="center">Software Development With AI Skills</h3>
