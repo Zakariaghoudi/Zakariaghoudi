@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ghoudi Zakaria 👋</h1>
 <div align="center">
-  <img width="250"; height="200px" ; border="2px solid green"; border-radius="50px"
+  <img width="300px"; height="200px" ; border="2px solid green"; border-radius="50px"
   src="https://ghoudizakaria.vercel.app/static/media/img3.46ce3c48f9d4dfd6312d.jpg" />
 </div>
 <h3 align="center">Student at GoMyCode | Software Development With AI Skills</h3>
