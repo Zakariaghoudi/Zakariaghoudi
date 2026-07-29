@@ -42,7 +42,7 @@ I am a Full-Stack Web Developer based in Gabes, Tunisia, and a graduate of **GoM
 -https://github.com/Zakariaghoudi/Clock
 
 - **Calculator:** A basic calculator application that handles standard arithmetic operations.
--https://github.com/ZakariaghoudiCalculator
+-https://github.com/Zakariaghoudi/Calculator
 ---
 
 ### 🔥 GitHub Stats
