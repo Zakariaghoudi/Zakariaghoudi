@@ -7,17 +7,20 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/Zakariaghoudi?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ghoudi-zakaria?style=for-the-badge&logo=github&label=Follow&color=5865F2">
-  </a>
-  <a href="mailto:zakariaghoudi1@gmail.com">
-    <img alt="Email me" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/zakariaghoudi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/SEO-0288D1?style=for-the-badge&logo=google-search-console&logoColor=white" alt="SEO">
+  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="AI & LLMs">
 </p>
+
 
 ### 👨‍💻 About Me
 
