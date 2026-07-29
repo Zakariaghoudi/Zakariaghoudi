@@ -27,13 +27,6 @@ I am a Full-Stack Web Developer based in Gabes, Tunisia, and a graduate of **GoM
 * 💼 Open for **Freelance** contracts and **Full-time** roles
 * 📬 Reach out: **zakariaghoudi1@gmail.com**
 
-
-- 🔭 I’m currently working on improving my skills in both front-end and back-end development.
-- 🌱 I’m always exploring new technologies and frameworks.
-- 📍 I am based in **Tunisia, Gabes**.
-- 💼 I'm available for **Freelance** & **Full-time** opportunities.
-- 📫 You can reach me at **zakariaghoudi1@gmail.com**.
-
 ### 🛠️ Technologies & Tools
 
 Here are some of the technologies I've been working with:
