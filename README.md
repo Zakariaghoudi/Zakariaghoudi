@@ -21,7 +21,12 @@
 
 ### 👨‍💻 About Me
 
-I am a highly motivated and results-driven web developer from **Tunisia**. Currently, I am a passionate student at **GoMyCode**, where I am enhancing my skills in modern web technologies. My journey into programming is driven by a desire to build robust, user-centric solutions that are both functional and aesthetically pleasing.
+I am a Full-Stack Web Developer based in Gabes, Tunisia, and a graduate of **GoMyCode**. I focus on building performant, end-to-end web solutions from design to deployment. Driven by clean code and seamless user experiences, I turn ideas into reliable software products.
+
+* 💡 Continuously exploring modern web frameworks and tools
+* 💼 Open for **Freelance** contracts and **Full-time** roles
+* 📬 Reach out: **zakariaghoudi1@gmail.com**
+
 
 - 🔭 I’m currently working on improving my skills in both front-end and back-end development.
 - 🌱 I’m always exploring new technologies and frameworks.
