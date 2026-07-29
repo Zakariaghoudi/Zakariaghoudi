@@ -8,17 +8,17 @@
 ---
 
 <p align="left">
-  <img src="https://shields.io" alt="MongoDB">
-  <img src="https://shields.io" alt="Express.js">
-  <img src="https://shields.io" alt="React">
-  <img src="https://shields.io" alt="Node.js">
-  <img src="https://shields.io" alt="Mongoose">
-  <img src="https://shields.io" alt="HTML5">
-  <img src="https://shields.io" alt="CSS3">
-  <img src="https://shields.io" alt="JavaScript">
-  <img src="https://shields.io" alt="Git">
-  <img src="https://shields.io" alt="AI Web Dev">
-  <img src="https://shields.io" alt="LLM SEO / GEO">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/AI%20Web%20Dev-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="AI Web Dev">
+  <img src="https://img.shields.io/badge/LLM%20SEO%20%2F%20GEO-0288D1?style=for-the-badge&logo=google-search-console&logoColor=white" alt="LLM SEO / GEO">
 </p>
 
 ---
