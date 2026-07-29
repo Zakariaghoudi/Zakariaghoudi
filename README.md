@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/SEO-0288D1?style=for-the-badge&logo=google-search-console&logoColor=white" alt="SEO">
   <img src="https://img.shields.io/badge/AI%20%26%20LLMs-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="AI & LLMs">
 </p>
-
+---
 
 ### 👨‍💻 About Me
 
